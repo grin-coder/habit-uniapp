@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "path": "pages/index",
+      "type": "home",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "雾庭手记"
+      }
+    }
+  ],
+  "globalStyle": {
+    "backgroundColor": "#F7F5EE",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F7F5EE",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom"
+  }
+}
